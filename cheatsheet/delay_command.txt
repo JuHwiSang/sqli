@@ -1,0 +1,4 @@
+sleep({delay_time})
+pg_sleep({delay_time})
+benchmark(10000000,MD5(1))
+RANDOMBLOB(500000000/2)
